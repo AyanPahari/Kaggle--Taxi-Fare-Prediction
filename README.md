@@ -1,7 +1,7 @@
 
 # Kaggle- Taxi Fare Prediction
 
-The Aim of this of this Project is to work on a (completed) Kaggle challenge on taxi fare prediction. 
+The aim of this project is to work on a (completed) Kaggle challenge on taxi fare prediction. 
 
 Please visit https://www.kaggle.com/c/new-york-city-taxi-fare-prediction to know more about this
 problem, and download the data.
